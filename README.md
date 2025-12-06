@@ -68,3 +68,6 @@ Unity 기반으로 제작한, **Git 입문자를 위한 교육용 2D 게임**입
 - **Aseprite** – 도트 그래픽 제작
 - **미리캔버스** – 교안 / 발표 자료 디자인
 
+  [![정사원 키우기 - Git 데모 영상](https://img.youtube.com/vi/TyQ0Opfo2NY/0.jpg)](https://youtu.be/TyQ0Opfo2NY)
+
+
