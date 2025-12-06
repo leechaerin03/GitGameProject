@@ -3,16 +3,8 @@
 
 
 ---
-<table>
-  <tr>
-    <td><a href="https://youtu.be/TyQ0Opfo2NY">
-      <img src="./images/image14.png" width="350">
-    </a></td>
-    <td><a href="https://youtu.be/TyQ0Opfo2NY">
-      <img src="./images/image15.png" width="350">
-    </a></td>
-  </tr>
-</table>
+[![이미지1](./images/image14.png)]
+[![이미지2](./images/image15.png)]
 ## 📌 프로젝트 개요
 
 **정사원 키우기 - Git의 시작**은  
