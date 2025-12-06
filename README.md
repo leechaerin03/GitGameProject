@@ -3,8 +3,8 @@
 
 
 ---
-[![이미지1](./images/image14.png)]
-[![이미지2](./images/image15.png)]
+[![이미지1](image14.png)]
+[![이미지2](image15.png)]
 ## 📌 프로젝트 개요
 
 **정사원 키우기 - Git의 시작**은  
